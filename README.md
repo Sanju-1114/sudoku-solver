@@ -34,6 +34,7 @@ This repository contains a C++ implementation of a Sudoku solver for LeetCode pr
 - To test with a different Sudoku puzzle, modify the `board` vector in the `main` function with your own 9x9 grid, using '.' for empty cells and digits '1' to '9' for filled cells.
 - Run the program to see the solved Sudoku board printed to the console.
 
+
 ## Example
 The sample board in the code is:
 ```
