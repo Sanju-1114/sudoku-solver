@@ -81,6 +81,7 @@ void solveSudoku(vector<vector<char>> &board) {
     helper(board, 0, 0, rowVisited, colVisited, boxVisited);
 }
 
+
 int main() {
     vector<vector<char>> board = {
         {'8', '2', '7', '1', '5', '4', '3', '9', '6'},
