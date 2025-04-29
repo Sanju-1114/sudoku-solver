@@ -51,7 +51,6 @@ The sample board in the code is:
 ```
 Running the program will output the solved board.
 
-
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for any bugs, improvements, or feature requests.
 
