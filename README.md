@@ -41,6 +41,8 @@ This repository contains a C++ implementation of a Sudoku solver for LeetCode pr
 - Run the program to see the solved Sudoku board printed to the console.
 
 
+---
+
 ## Example
 The sample board in the code is:
 ```
