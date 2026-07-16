@@ -3,6 +3,8 @@
 ## Overview
 This repository contains a C++ implementation of a Sudoku solver for LeetCode problem 37. The solver uses a backtracking algorithm to solve a 9x9 Sudoku puzzle by filling in the empty cells (denoted by '.') with digits from 1 to 9, ensuring that the solution adheres to standard Sudoku rules.
 
+---
+
 ## Features
 - Solves a 9x9 Sudoku puzzle using backtracking.
 - Checks for valid placements of digits by verifying:
