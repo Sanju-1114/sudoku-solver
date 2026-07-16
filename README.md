@@ -64,6 +64,8 @@ Running the program will output the solved board.
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for any bugs, improvements, or feature requests.
 
 
+---
+
 ## License
 This project is licensed under the MIT License.
 
